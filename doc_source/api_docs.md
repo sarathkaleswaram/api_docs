@@ -1,19 +1,19 @@
 # API documentation
 
 - Wallet Generation API
-    - [/enrollAdmin](#/enrollAdmin)
-    - [/registerUser](#/registerUser)
+    - [/enrollAdmin](#enrollAdmin)
+    - [/registerUser](#registerUser)
 
 - MongoDB API
     - [/login](#/login)
-    - [/setUsers](#/setUsers)
-    - [/getUsers](#/getUsers)
-    - [/decryptData](#/decryptData)
+    - [/setUsers](#setUsers)
+    - [/getUsers](#getUsers)
+    - [/decryptData](#decryptData)
 
 - Smart Contract API
-    - [/createUser](#/createUser)
-    - [/getUserTxs](#/getUserTxs)
-    - [/getAllUsers](#/getAllUsers)
+    - [/createUser](#createUser)
+    - [/getUserTxs](#getUserTxs)
+    - [/getAllUsers](#getAllUsers)
 
 ## /enrollAdmin
 To generate Admin wallet keys:
