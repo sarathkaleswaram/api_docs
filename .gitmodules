@@ -1,0 +1,3 @@
+[submodule "vendor/plugins/demo"]
+	path = vendor/plugins/demo
+	url = ../docs
